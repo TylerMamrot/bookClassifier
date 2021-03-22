@@ -1,4 +1,4 @@
-living_index
+BookClassifier
 ==============================
 
 Set of binary classifiers used to determine the type of book based on the text in the book's summary
