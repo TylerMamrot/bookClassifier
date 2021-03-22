@@ -1,13 +1,7 @@
 living_index
 ==============================
 
-Model used to reccomend cities in the United states based on the following:
-* politcial affiliation
-* yearly income
-* city type (rual, urban, etc)
-* primary job opportunity
-* cost of living tolerance
-* tax tolerance
+Set of binary classifiers used to determine the type of book based on the text in the book's summary
 
 Project Organization
 ------------
